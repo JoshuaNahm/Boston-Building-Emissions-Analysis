@@ -130,3 +130,10 @@ This project provided critical insights into Boston’s building emissions lands
 
 By leveraging data-driven analysis and interactive dashboards, stakeholders can make informed decisions to promote climate justice and sustainable urban development.
 """
+
+---
+
+## Sample Image
+![BCAN Dashboard Overview](images/bcan_dashboard.png)
+
+
