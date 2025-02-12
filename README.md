@@ -134,6 +134,6 @@ By leveraging data-driven analysis and interactive dashboards, stakeholders can 
 ---
 
 ## Sample Image
-![BCAN Dashboard Overview](images/bcan_dashboard.png)
+![BCAN Dashboard Overview](BCAN_Visualization/bcan_dashboard.png)
 
 
